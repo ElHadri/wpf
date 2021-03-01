@@ -1,0 +1,15 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\bin\Debug\CH05.CommandLineArgs.exe.config
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\bin\Debug\CH05.CommandLineArgs.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\bin\Debug\CH05.CommandLineArgs.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs.csprojAssemblyReference.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\MainWindow.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\App.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs_MarkupCompile.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs_MarkupCompile.lref
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\MainWindow.baml
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs.g.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs.Properties.Resources.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs.csproj.GenerateResource.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.CommandLineArgs\obj\Debug\CH05.CommandLineArgs.pdb

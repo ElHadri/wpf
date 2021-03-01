@@ -1,0 +1,15 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\bin\Debug\CH06.LiveShaping.exe.config
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\bin\Debug\CH06.LiveShaping.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\bin\Debug\CH06.LiveShaping.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping.csprojAssemblyReference.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\MainWindow.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\App.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping_MarkupCompile.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping_MarkupCompile.lref
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\MainWindow.baml
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping.g.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping.Properties.Resources.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping.csproj.GenerateResource.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.LiveShaping\obj\Debug\CH06.LiveShaping.pdb

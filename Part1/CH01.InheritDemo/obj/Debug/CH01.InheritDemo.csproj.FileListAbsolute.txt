@@ -1,0 +1,14 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\bin\Debug\CH01.InheritDemo.exe.config
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\bin\Debug\CH01.InheritDemo.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\bin\Debug\CH01.InheritDemo.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\App.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\CH01.InheritDemo_MarkupCompile.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\CH01.InheritDemo_MarkupCompile.lref
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\MainWindow.baml
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.g.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.Properties.Resources.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.csproj.GenerateResource.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.pdb

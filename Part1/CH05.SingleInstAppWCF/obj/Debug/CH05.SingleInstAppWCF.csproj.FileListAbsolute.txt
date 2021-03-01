@@ -1,0 +1,15 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\bin\Debug\CH05.SingleInstAppWCF.exe.config
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\bin\Debug\CH05.SingleInstAppWCF.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\bin\Debug\CH05.SingleInstAppWCF.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF.csprojAssemblyReference.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\MainWindow.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\App.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF_MarkupCompile.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF_MarkupCompile.lref
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\MainWindow.baml
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF.g.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF.Properties.Resources.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF.csproj.GenerateResource.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH05.SingleInstAppWCF\obj\Debug\CH05.SingleInstAppWCF.pdb

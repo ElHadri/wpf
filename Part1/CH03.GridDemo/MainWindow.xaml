@@ -1,0 +1,39 @@
+﻿<Window x:Class="CH03.GridDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CH03.GridDemo"
+        mc:Ignorable="d"
+        Title="Grid Demo" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Button Content="Add a book" Click="OnAddRow"/>
+            <Grid x:Name="_grid"/>
+
+            <ListBox ItemsSource="{Binding}" Grid.IsSharedSizeScope="True">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" SharedSizeGroup="abc" />
+                                <ColumnDefinition />
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Text="{Binding Name}" FontSize="20" Margin="4"/>
+                            <TextBlock Grid.Column="1" FontSize="16" Text="{Binding Age, StringFormat=is {0} years old}" 
+                                   VerticalAlignment="Bottom" Margin="4"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <ListBox ItemsSource="{Binding}" FontSize="25" SelectionMode="Multiple">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Rows="4" Columns="4" />
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

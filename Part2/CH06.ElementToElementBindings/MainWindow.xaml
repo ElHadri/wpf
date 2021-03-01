@@ -1,0 +1,27 @@
+﻿<Window x:Class="CH06.ElementToElementBindings.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CH06.ElementToElementBindings"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!--<TextBlock Text="This is a sizing text" TextAlignment="Center" VerticalAlignment="Center" x:Name="_textBlock"/>
+        <Slider x:Name="_slider" Grid.Row="1" Minimum="10" Maximum="80" Value="30" ValueChanged="onValueChanged"/>-->
+        
+        <TextBlock Text="This is a sizing text" TextAlignment="Center" VerticalAlignment="Center" 
+                   FontSize="{Binding ElementName=_slider, Path=Value}"/>
+        <Slider x:Name="_slider" Grid.Row="1" Minimum="10" Maximum="80" Value="30" />
+        <StackPanel Orientation="Horizontal" Grid.Row="2" >
+            <TextBox Text="{Binding Value, ElementName=_slider, UpdateSourceTrigger=Explicit}" x:Name="_text" FontSize="20"/>
+            <Button Content="Update the source explicitly" Click="OnUpdateExplicitly"/>
+        </StackPanel>
+    </Grid>
+</Window>

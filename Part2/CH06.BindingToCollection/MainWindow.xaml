@@ -1,0 +1,22 @@
+﻿<Window x:Class="CH06.BindingToCollection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CH06.BindingToCollection"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        
+        <!--<ListBox x:Name="_list" DisplayMemberPath="Name" /> OR -->
+        <ListBox x:Name="_list" ItemsSource="{Binding}" DisplayMemberPath="Name" IsSynchronizedWithCurrentItem="True"/>
+        <Button Content="Add" Click="OnAdd" Grid.Row="1" />
+
+        <ComboBox x:Name="_combo" ItemsSource="{Binding}" Grid.Row="2" DisplayMemberPath="Age" IsSynchronizedWithCurrentItem="True"/>
+    </Grid>
+</Window>

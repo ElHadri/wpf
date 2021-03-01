@@ -1,0 +1,39 @@
+﻿<Window x:Class="CH03.DynamicGridSizing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CH03.DynamicGridSizing"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Ellipse Grid.Column="0" Stroke="Black" StrokeThickness="2" Fill="Red" />
+        <GridSplitter Grid.Column="0" Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Stretch" Width="30" Background="Black"/>
+        <GridSplitter Grid.Column="0" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="30" Background="Pink" />
+        <Ellipse Grid.Column="1" Stroke="Black" StrokeThickness="2" Fill="Green" />
+        <GridSplitter Grid.Column="1" Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Stretch" Width="30" Background="Blue"/>
+        <GridSplitter Grid.Column="1" Grid.Row="0" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Height="30" Background="Purple" />
+        <Ellipse Grid.Column="2" Stroke="Black" StrokeThickness="2" Fill="Yellow" />
+        <GridSplitter Grid.Column="2" Grid.Row="0" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Height="30" Background="Orange" />
+        <Ellipse Grid.Column="0" Grid.Row="1" Stroke="Black" StrokeThickness="2" Fill="Black" />
+        <GridSplitter Grid.Column="0" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Stretch" Width="30" Background="red"/>
+        <Ellipse Grid.Column="1" Grid.Row="1" Stroke="Black" StrokeThickness="2" Fill="Blue" />
+        <GridSplitter Grid.Column="1" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Stretch" Width="30" Background="Green"/>
+        <Ellipse Grid.Column="2" Grid.Row="1" Stroke="Black" StrokeThickness="2" Fill="RosyBrown" />
+
+
+
+
+
+    </Grid>
+</Window>

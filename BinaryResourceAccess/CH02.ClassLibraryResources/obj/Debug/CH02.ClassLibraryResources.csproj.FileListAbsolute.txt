@@ -1,0 +1,9 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\bin\Debug\CH02.ClassLibraryResources.dll
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\bin\Debug\CH02.ClassLibraryResources.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.Properties.Resources.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.csproj.GenerateResource.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.dll
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.g.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\BinaryResourceAccess\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.csprojAssemblyReference.cache

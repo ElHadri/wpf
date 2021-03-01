@@ -1,0 +1,22 @@
+﻿<Window x:Class="CH02.BinaryResources.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CH02.BinaryResources"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Background>
+        <ImageBrush ImageSource="C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part1\CH02.BinaryResources\Images\light_bulb.jpg" />
+    </Window.Background>
+    <StackPanel>
+        <Button Margin="10" HorizontalAlignment="Center" Padding="4">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Images\project1.png" Width="32" Height="32" />
+                <TextBlock VerticalAlignment="Center" Margin="10,0,0,0" FontSize="16" Text="Click me, please!" />
+            </StackPanel>
+        </Button>
+        <Button Content="Read Book Data" FontSize="14" Click="OnReadBooks"/>
+        <TextBox IsReadOnly="True" x:Name="_text" FontSize="16" Margin="4"/>
+    </StackPanel>
+</Window>

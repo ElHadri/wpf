@@ -1,0 +1,5 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.CustomMarkupExtension\bin\Debug\CH01.CustomMarkupExtension.dll
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.CustomMarkupExtension\bin\Debug\CH01.CustomMarkupExtension.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.CustomMarkupExtension\obj\Debug\CH01.CustomMarkupExtension.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.CustomMarkupExtension\obj\Debug\CH01.CustomMarkupExtension.dll
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Tutos\CH01.CustomMarkupExtension\obj\Debug\CH01.CustomMarkupExtension.pdb
