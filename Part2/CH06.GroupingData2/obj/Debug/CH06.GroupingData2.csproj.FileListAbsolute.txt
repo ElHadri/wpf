@@ -1,0 +1,16 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\bin\Debug\CH06.GroupingData2.exe.config
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\bin\Debug\CH06.GroupingData2.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\bin\Debug\CH06.GroupingData2.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\MainWindow.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\App.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2_MarkupCompile.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2_MarkupCompile.lref
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\MainWindow.baml
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2.g.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2.Properties.Resources.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2.csproj.GenerateResource.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\CH06.GroupingData2.csprojAssemblyReference.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.GroupingData2\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,14 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\bin\Debug\CH06.TreeViewBinding.exe.config
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\bin\Debug\CH06.TreeViewBinding.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\bin\Debug\CH06.TreeViewBinding.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\MainWindow.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\App.g.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\CH06.TreeViewBinding_MarkupCompile.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\CH06.TreeViewBinding_MarkupCompile.lref
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\MainWindow.baml
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\CH06.TreeViewBinding.g.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\CH06.TreeViewBinding.Properties.Resources.resources
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\CH06.TreeViewBinding.csproj.GenerateResource.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\CH06.TreeViewBinding.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\CH06.TreeViewBinding.exe
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.TreeViewBinding\obj\Debug\CH06.TreeViewBinding.pdb
