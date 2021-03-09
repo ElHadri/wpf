@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CH07.SimpleNotepad/1.0.0": {
+        "runtime": {
+          "CH07.SimpleNotepad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH07.SimpleNotepad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
