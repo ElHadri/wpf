@@ -5,30 +5,24 @@ using System.Windows.Input;
 
 namespace CH07.RoutedCommandsMVVM
 {
-    /* Client&Invoker - View Model*/
+    /* Invoker & View Model */
     public class ImageVM : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged = delegate { };
 
         private ICommand _openImageFileCommand;
-        private ICommand _zoomCommand;
-
-        public ImageVM()
-        {
-            _openImageFileCommand = new OpenImageFileCommand(this);
-            _zoomCommand = new ZoomCommand(this);
-        }
-
         public ICommand OpenImageFileCommand
         {
             get { return _openImageFileCommand; }
         }
+
+        private ICommand _zoomCommand;
         public ICommand ZoomCommand
         {
             get { return _zoomCommand; }
         }
 
-        double _zoom = 1.0;
+        private double _zoom = 1.0;
         public double Zoom
         {
             get { return _zoom; }
@@ -39,7 +33,7 @@ namespace CH07.RoutedCommandsMVVM
             }
         }
 
-        string _imagePath;
+        private string _imagePath;
         public string ImagePath
         {
             get { return _imagePath; }
@@ -48,6 +42,12 @@ namespace CH07.RoutedCommandsMVVM
                 _imagePath = value;
                 PropertyChanged(this, new PropertyChangedEventArgs("ImagePath"));
             }
+        }
+
+        public void SetCommand(ICommand openImageFileCommand, ICommand zoomCommand)
+        {
+            _openImageFileCommand = openImageFileCommand;
+            _zoomCommand = zoomCommand;
         }
     }
 }

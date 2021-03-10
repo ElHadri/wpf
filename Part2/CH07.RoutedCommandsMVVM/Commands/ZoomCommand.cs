@@ -1,10 +1,6 @@
 ﻿using CH07.RoutedCommandsMVVM;
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Input;
 
 namespace Commands
@@ -31,8 +27,8 @@ namespace Commands
         public void Execute(object parameter)  /* parameter is zoom type */
         {
             var zoomType = (EnumZoomType)Enum.Parse(
-                typeof(EnumZoomType), 
-                (string)parameter, 
+                typeof(EnumZoomType),
+                (string)parameter,
                 true);
 
             switch (zoomType)

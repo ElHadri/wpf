@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Commands;
+
 using System.Windows;
 
 namespace CH07.RoutedCommandsMVVM
@@ -16,8 +12,12 @@ namespace CH07.RoutedCommandsMVVM
         protected override void OnStartup(StartupEventArgs e)
         {
             var mainWindow = new MainWindow(); // View
-            var imageVM = new ImageVM(); // ViewModel
+            var imageVM = new ImageVM(); // here I consider "ImageVM" as a ViewModel
             mainWindow.DataContext = imageVM;
+
+            // here I consider "ImageVM" as an Invoker
+            imageVM.SetCommand(new OpenImageFileCommand(imageVM), new ZoomCommand(imageVM));
+
             mainWindow.Show();
         }
     }
