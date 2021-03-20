@@ -12,4 +12,3 @@ C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.csproj.CoreCompileInputs.cache
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.exe
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.pdb
-C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <DataTemplate x:Key="commentTemplate">
+        <Grid Margin="2,8">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Model.When, StringFormat=d}" />
+                <TextBlock Margin="10,0,0,0" Text="{Binding Name, StringFormat=From: \{0\}}" FontWeight="Bold"/>
+            </StackPanel>
+            <TextBlock Grid.Row="1" Text="{Binding Text}" TextWrapping="Wrap" />
+        </Grid>
+    </DataTemplate>
+</ResourceDictionary>

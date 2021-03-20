@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CH07.BlogReader/1.0.0": {
+        "dependencies": {
+          "CH07.CookbookMVVM": "1.0.0"
+        },
+        "runtime": {
+          "CH07.BlogReader.dll": {}
+        }
+      },
+      "CH07.CookbookMVVM/1.0.0": {
+        "runtime": {
+          "CH07.CookbookMVVM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH07.BlogReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CH07.CookbookMVVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\bin\Debug\net5.0-windows\CH07.CookbookMVVM.deps.json
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\bin\Debug\net5.0-windows\CH07.CookbookMVVM.dll
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\bin\Debug\net5.0-windows\ref\CH07.CookbookMVVM.dll
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\bin\Debug\net5.0-windows\CH07.CookbookMVVM.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\obj\Debug\net5.0-windows\CH07.CookbookMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\obj\Debug\net5.0-windows\CH07.CookbookMVVM.AssemblyInfoInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\obj\Debug\net5.0-windows\CH07.CookbookMVVM.AssemblyInfo.cs
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\obj\Debug\net5.0-windows\CH07.CookbookMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\obj\Debug\net5.0-windows\CH07.CookbookMVVM.dll
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\obj\Debug\net5.0-windows\ref\CH07.CookbookMVVM.dll
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\obj\Debug\net5.0-windows\CH07.CookbookMVVM.pdb
+C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.CookbookMVVM\obj\Debug\net5.0-windows\CH07.CookbookMVVM.csprojAssemblyReference.cache

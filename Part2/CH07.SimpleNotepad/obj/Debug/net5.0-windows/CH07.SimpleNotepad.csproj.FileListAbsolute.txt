@@ -5,7 +5,6 @@ C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.SimpleNotepad\bin\Debug\net5.0-windows\CH07.SimpleNotepad.dll
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.SimpleNotepad\bin\Debug\net5.0-windows\ref\CH07.SimpleNotepad.dll
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.SimpleNotepad\bin\Debug\net5.0-windows\CH07.SimpleNotepad.pdb
-C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.SimpleNotepad\obj\Debug\net5.0-windows\CH07.SimpleNotepad.csprojAssemblyReference.cache
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.SimpleNotepad\obj\Debug\net5.0-windows\MainWindow.g.cs
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.SimpleNotepad\obj\Debug\net5.0-windows\App.g.cs
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.SimpleNotepad\obj\Debug\net5.0-windows\CH07.SimpleNotepad_MarkupCompile.cache

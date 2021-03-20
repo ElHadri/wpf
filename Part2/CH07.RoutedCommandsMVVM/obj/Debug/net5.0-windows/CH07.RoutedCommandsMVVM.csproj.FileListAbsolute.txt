@@ -19,4 +19,3 @@ C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.RoutedCommandsMVVM\obj\Debug\net5.0-windows\ref\CH07.RoutedCommandsMVVM.dll
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.RoutedCommandsMVVM\obj\Debug\net5.0-windows\CH07.RoutedCommandsMVVM.pdb
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.RoutedCommandsMVVM\obj\Debug\net5.0-windows\CH07.RoutedCommandsMVVM.genruntimeconfig.cache
-C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.RoutedCommandsMVVM\obj\Debug\net5.0-windows\CH07.RoutedCommandsMVVM.csprojAssemblyReference.cache

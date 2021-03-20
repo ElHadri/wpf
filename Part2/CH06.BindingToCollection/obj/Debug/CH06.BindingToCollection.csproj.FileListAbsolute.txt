@@ -1,7 +1,6 @@
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.BindingToCollection\bin\Debug\CH06.BindingToCollection.exe.config
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.BindingToCollection\bin\Debug\CH06.BindingToCollection.exe
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.BindingToCollection\bin\Debug\CH06.BindingToCollection.pdb
-C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.BindingToCollection\obj\Debug\CH06.BindingToCollection.csprojAssemblyReference.cache
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.BindingToCollection\obj\Debug\MainWindow.g.cs
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.BindingToCollection\obj\Debug\App.g.cs
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH06.BindingToCollection\obj\Debug\CH06.BindingToCollection_MarkupCompile.cache

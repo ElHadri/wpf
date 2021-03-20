@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "CH07.CookbookMVVM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CH07.CookbookMVVM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CH07.CookbookMVVM.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "CH07.CookbookMVVM/1.0.0": {
+      "type": "project",
+      "path": "../CH07.CookbookMVVM/CH07.CookbookMVVM.csproj",
+      "msbuildProject": "../CH07.CookbookMVVM/CH07.CookbookMVVM.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "CH07.CookbookMVVM >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Adil\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Adil\\Source\\Repos\\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\\Adil\\Part2\\CH07.BlogReader\\CH07.BlogReader.csproj",
+      "projectName": "CH07.BlogReader",
+      "projectPath": "C:\\Users\\Adil\\Source\\Repos\\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\\Adil\\Part2\\CH07.BlogReader\\CH07.BlogReader.csproj",
+      "packagesPath": "C:\\Users\\Adil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adil\\Source\\Repos\\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\\Adil\\Part2\\CH07.BlogReader\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Adil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Adil\\Source\\Repos\\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\\Adil\\Part2\\CH07.CookbookMVVM\\CH07.CookbookMVVM.csproj": {
+              "projectPath": "C:\\Users\\Adil\\Source\\Repos\\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\\Adil\\Part2\\CH07.CookbookMVVM\\CH07.CookbookMVVM.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
