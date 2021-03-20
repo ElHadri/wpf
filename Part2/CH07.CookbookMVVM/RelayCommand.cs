@@ -8,6 +8,8 @@ using System.Windows.Input;
 namespace CH07.CookbookMVVM
 {
     // helper class
+    // implement a command generically by supplying delegates as implementations for Execute and CanExecute.
+    // This works up to a point.When dealing with undo/redo, a state must be maintained, so using RelayCommand is not enough in most cases.
     public class RelayCommand<T> : ICommand
     {
 

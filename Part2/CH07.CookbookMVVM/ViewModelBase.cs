@@ -16,5 +16,15 @@
         }
     }
     //----------------------------------------------------------------------------------
+    /*  Undo/redo operations typically span multiple ViewModels. We'll add the ability to link ViewModels in a parent-child relationship, if needed*/
+    public abstract class ViewModelBase<TModel, TParentVM> : ViewModelBase<TModel>
+    {
+        public TParentVM Parent { get; set; }
 
+        public ViewModelBase(TModel model = default(TModel), TParentVM parentVM = default(TParentVM))
+        {
+            Model = model;
+            Parent = parentVM;
+        }
+    }
 }

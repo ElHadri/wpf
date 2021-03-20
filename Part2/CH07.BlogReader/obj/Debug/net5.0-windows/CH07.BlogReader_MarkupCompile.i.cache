@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\Adil\Source\Repos\Windows Presentation Foundation 4.5 Cookbook by Pavel Yosifovich (z-lib.org)\Adil\Part2\CH07.BlogReader\App.xaml
 71052818659
 
-161735664799
+17794901889
 194-1285461835
 MainWindow.xaml;Views\BlogCommentView.xaml;Views\BloggerView.xaml;Views\BlogPostView.xaml;Views\BlogView.xaml;Views\NewCommentWindow.xaml;Views\NewPostWindow.xaml;
 
-False
+True
 

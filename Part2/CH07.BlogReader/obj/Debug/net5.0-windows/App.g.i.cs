@@ -53,7 +53,7 @@ namespace CH07.BlogReader {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/CH07.BlogReader;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CH07.BlogReader;V1.0.0.0;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
